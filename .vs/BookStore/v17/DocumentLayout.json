@@ -1,0 +1,836 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\repository\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCDE15C-5A04-4E4C-83DA-9D7F4D692A88}|Models\\Models.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCDE15C-5A04-4E4C-83DA-9D7F4D692A88}|Models\\Models.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCDE15C-5A04-4E4C-83DA-9D7F4D692A88}|Models\\Models.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\models\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCDE15C-5A04-4E4C-83DA-9D7F4D692A88}|Models\\Models.csproj|solutionrelative:models\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCDE15C-5A04-4E4C-83DA-9D7F4D692A88}|Models\\Models.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCDE15C-5A04-4E4C-83DA-9D7F4D692A88}|Models\\Models.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\repository\\irepository\\iunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\irepository\\iunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\dataaccess\\migrations\\20240316063807_createcategories.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240316063807_createcategories.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\dataaccess\\migrations\\20240316070405_seedcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240316070405_seedcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCDE15C-5A04-4E4C-83DA-9D7F4D692A88}|Models\\Models.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCDE15C-5A04-4E4C-83DA-9D7F4D692A88}|Models\\Models.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\dataaccess\\migrations\\20240316070405_seedcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240316070405_seedcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\dataaccess\\migrations\\20240316063807_createcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240316063807_createcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\bookstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD397A0E-2386-4271-8D66-D7FB36E67B8A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\dataaccess\\migrations\\20240521162950_createforeignkeycategoryidinproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240521162950_createforeignkeycategoryidinproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|c:\\new folder\\aejaz\\aejaz\\aejaz\\udemy\\bookstore\\dataaccess\\migrations\\20240520165012_createproductandseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0060EAA-CCC3-4C3F-A05F-99E57D18F9F7}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240520165012_createproductandseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "BookStore\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T07:02:09.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T06:34:53.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T13:33:08.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:20:00.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:19:55.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAcwGABAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:32:11.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T07:01:50.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "product.js",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\wwwroot\\js\\product.js",
+              "RelativeDocumentMoniker": "BookStore\\wwwroot\\js\\product.js",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\wwwroot\\js\\product.js",
+              "RelativeToolTip": "BookStore\\wwwroot\\js\\product.js",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-27T14:23:29.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAiwHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:15:46.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BookStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T06:48:09.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:12:41.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:46:53.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BookStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T07:01:25.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAmwBUBAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:40:07.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwHUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:14:26.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BookStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T06:48:19.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:54:59.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:56:29.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:19:54.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWorks.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\UnitOfWorks.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\UnitOfWorks.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\UnitOfWorks.cs",
+              "RelativeToolTip": "BookStore\\Repository\\UnitOfWorks.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:15:21.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\Repository.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\Repository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\Repository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:21:45.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:15:44.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\Models\\ViewModel\\ProductVM.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModel\\ProductVM.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\Models\\ViewModel\\ProductVM.cs",
+              "RelativeToolTip": "Models\\ViewModel\\ProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:13:08.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA0wC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:41:27.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:47:15.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "DataAccess\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwCUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:43:12.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:12:22.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:31:13.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:51:57.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:17:34.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240521162950_CreateForeignKeyCategoryIdInProduct.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240521162950_CreateForeignKeyCategoryIdInProduct.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240521162950_CreateForeignKeyCategoryIdInProduct.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240521162950_CreateForeignKeyCategoryIdInProduct.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240521162950_CreateForeignKeyCategoryIdInProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:29:51.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUnitOfWorks.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\IRepository\\IUnitOfWorks.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\IRepository\\IUnitOfWorks.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\IRepository\\IUnitOfWorks.cs",
+              "RelativeToolTip": "BookStore\\Repository\\IRepository\\IUnitOfWorks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:14:09.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:30:09.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20240520165012_CreateProductAndSeedData.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240520165012_CreateProductAndSeedData.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240520165012_CreateProductAndSeedData.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240520165012_CreateProductAndSeedData.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240520165012_CreateProductAndSeedData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:50:12.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BookStore\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BookStore\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T17:12:27.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BookStore\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:03:43.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Program.cs",
+              "RelativeDocumentMoniker": "BookStore\\Program.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Program.cs",
+              "RelativeToolTip": "BookStore\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:43:07.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BookStore\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BookStore\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-06T16:37:55.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240316070405_SeedCategoryTable.Designer.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240316070405_SeedCategoryTable.Designer.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240316070405_SeedCategoryTable.Designer.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240316070405_SeedCategoryTable.Designer.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240316070405_SeedCategoryTable.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:32:07.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BookStore\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T06:48:11.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240316063807_CreateCategories.Designer.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240316063807_CreateCategories.Designer.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240316063807_CreateCategories.Designer.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240316063807_CreateCategories.Designer.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240316063807_CreateCategories.Designer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:31:25.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:52:17.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240316070405_SeedCategoryTable.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240316070405_SeedCategoryTable.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240316070405_SeedCategoryTable.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240316070405_SeedCategoryTable.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240316070405_SeedCategoryTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:27.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:31.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240316063807_CreateCategories.cs",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240316063807_CreateCategories.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240316063807_CreateCategories.cs",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\Migrations\\20240316063807_CreateCategories.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240316063807_CreateCategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:18.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T07:41:34.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookStore\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T13:46:37.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStore\\appsettings.json",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\appsettings.json",
+              "RelativeToolTip": "BookStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T13:42:09.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookStore\\appsettings.Development.json",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\appsettings.Development.json",
+              "RelativeToolTip": "BookStore\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T13:43:03.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\New folder\\Aejaz\\Aejaz\\Aejaz\\Udemy\\BookStore\\BookStore\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T07:03:57.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
