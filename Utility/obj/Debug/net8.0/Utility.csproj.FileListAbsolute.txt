@@ -1,0 +1,11 @@
+C:\New folder\Aejaz\Aejaz\Aejaz\Udemy\BookStore\Utility\bin\Debug\net8.0\Utility.deps.json
+C:\New folder\Aejaz\Aejaz\Aejaz\Udemy\BookStore\Utility\bin\Debug\net8.0\Utility.dll
+C:\New folder\Aejaz\Aejaz\Aejaz\Udemy\BookStore\Utility\bin\Debug\net8.0\Utility.pdb
+C:\New folder\Aejaz\Aejaz\Aejaz\Udemy\BookStore\Utility\obj\Debug\net8.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\Aejaz\Aejaz\Aejaz\Udemy\BookStore\Utility\obj\Debug\net8.0\Utility.AssemblyInfoInputs.cache
+C:\New folder\Aejaz\Aejaz\Aejaz\Udemy\BookStore\Utility\obj\Debug\net8.0\Utility.AssemblyInfo.cs
+C:\New folder\Aejaz\Aejaz\Aejaz\Udemy\BookStore\Utility\obj\Debug\net8.0\Utility.csproj.CoreCompileInputs.cache
+C:\New folder\Aejaz\Aejaz\Aejaz\Udemy\BookStore\Utility\obj\Debug\net8.0\Utility.dll
+C:\New folder\Aejaz\Aejaz\Aejaz\Udemy\BookStore\Utility\obj\Debug\net8.0\refint\Utility.dll
+C:\New folder\Aejaz\Aejaz\Aejaz\Udemy\BookStore\Utility\obj\Debug\net8.0\Utility.pdb
+C:\New folder\Aejaz\Aejaz\Aejaz\Udemy\BookStore\Utility\obj\Debug\net8.0\ref\Utility.dll
